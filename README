@@ -1,0 +1,8 @@
+SimpleSynth is a JACK client which can synthesize and output enveloped sine waves from MIDI input.
+
+This code is released under the GNU Lesser General Public License:
+http://www.gnu.org/licenses/lgpl.html
+
+Enjoy!
+
+-- Curran Kelleher 12/25/2010
